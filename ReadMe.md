@@ -61,4 +61,4 @@ At the end of the main class or its extension is the template included that disp
 
 The minimum PHP version is 7.4
 
-[image-1]:sreenshot.png?raw=true
+[image-1]:screenshot.png?raw=true
