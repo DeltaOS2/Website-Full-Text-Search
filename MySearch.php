@@ -167,7 +167,7 @@ class MySearch extends SearchClass
 // !! Check the template and make sure, you're calling the right class in the template !!
 
 // --- This is the template, I'm using on my own website:
-include_once './templates/search.php';
+//include_once './templates/search.php';
 
 // --- This is just a basic Bootstrap 5 template. Change it to fit your existing website:
-//include_once './templates/search.html';
+include_once './templates/search.html';
