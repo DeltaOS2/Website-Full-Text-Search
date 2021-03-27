@@ -14,6 +14,10 @@ The SearchClass is a full text search for websites with multiple pages. It works
 
 The class is full of comments and should be self-explanatory.
 
+## Screenshot
+
+![Search Result Page][image-1]
+
 ## Content
 - ***SearchClass.php*** is the main class
 - ***MySearch.php*** is an example extension of the main class
@@ -57,3 +61,4 @@ At the end of the main class or its extension is the template included that disp
 
 The minimum PHP version is 7.4
 
+[image-1]:sreenshot.png?raw=true
